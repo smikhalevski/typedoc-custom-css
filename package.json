@@ -1,0 +1,18 @@
+{
+  "name": "typedoc-custom-css",
+  "private": true,
+  "description": "The custom CSS that beautifies TypeDoc default theme.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smikhalevski/typedoc-custom-css.git"
+  },
+  "keywords": [
+    "typedoc"
+  ],
+  "author": "Savva Mikhalevski <smikhalevski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smikhalevski/typedoc-custom-css/issues"
+  },
+  "homepage": "https://github.com/smikhalevski/typedoc-custom-css#readme"
+}
