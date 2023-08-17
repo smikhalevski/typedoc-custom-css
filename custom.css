@@ -232,6 +232,10 @@ dl, menu, ol, ul {
 
 /* -------------------------------------------------- TYPOGRAPHY --------------------------------------------------- */
 
+.tsd-typography {
+    line-height: var(--line-height);
+}
+
 .tsd-typography:empty {
     display: none;
 }
