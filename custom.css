@@ -577,6 +577,10 @@ code.tsd-tag {
     width: auto;
 }
 
+.tsd-nested-navigation > li > details {
+    margin-left: 0;
+}
+
 .tsd-navigation .tsd-accordion-summary {
     position: relative;
     width: auto;
