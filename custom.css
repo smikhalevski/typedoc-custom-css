@@ -234,6 +234,10 @@ dl, menu, ol, ul {
     margin: 0 0 var(--header-margin) 0;
 }
 
+dt {
+    font-style: italic;
+}
+
 /* -------------------------------------------------- TYPOGRAPHY --------------------------------------------------- */
 
 .tsd-typography {
