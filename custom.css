@@ -636,6 +636,12 @@ ul.tsd-nested-navigation {
     margin: var(--menu-spacing-vertical) 0;
 }
 
+/* ---------------------------------------------------- SIDEBAR ---------------------------------------------------- */
+
+#tsd-sidebar-links {
+    margin: 0 0 var(--menu-spacing-vertical) 1.8em;
+}
+
 /* --------------------------------------------------- SETTINGS ---------------------------------------------------- */
 
 .tsd-navigation.settings {
